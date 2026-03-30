@@ -3,7 +3,6 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
 }
 
 h1{
@@ -13,7 +12,7 @@ h1{
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  padding: 6rem;
+  padding: 4rem;
 }
 
 h2{
@@ -23,7 +22,7 @@ h2{
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  padding: 6rem;
+  padding: 4rem;
 }
 
 .center {
