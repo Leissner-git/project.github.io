@@ -8,6 +8,10 @@ body{
   width: 60%;
 }
 
+p{
+  width: 45%;
+}
+
 h1{
   text-align: center;
   display: block;
