@@ -5,6 +5,10 @@ body{
   margin-right: auto;
 }
 
+p{
+  width: 60%;
+}
+
 h1{
   text-align: center;
   display: block;
