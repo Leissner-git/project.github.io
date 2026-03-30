@@ -1,12 +1,15 @@
 
 
 p{
-  color: red;
   text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+}
+
+li{
+  text-align: center;
 }
 
 h1{
