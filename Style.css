@@ -1,4 +1,5 @@
 h1{
+  text-align: center;
   display: block;
   background-color: red;
   margin-left: auto;
@@ -6,6 +7,7 @@ h1{
   width: 60%;
 }
 h2{
+  text-align: center;
   display: block;
   background-color: red;
   margin-left: auto;
@@ -14,6 +16,7 @@ h2{
 }
 
 body{
+  text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -28,6 +31,7 @@ body{
 }
 
 .subtext {
+  text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
